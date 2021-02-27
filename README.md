@@ -14,7 +14,7 @@
 
 The locally-stored DB interaction program with basic GUI elements 
 
-## FUNCTIONAL
+## FUNCTIONALITY
 
   * the DB contains information about 3 types of vehicles: cars, planes and ships; each type has specific data fields
   
